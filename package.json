@@ -1,0 +1,13 @@
+{
+  "name": "possocket",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Brad Reed <brad@bradreed.co.uk>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel": "1.12.4"
+  }
+}
